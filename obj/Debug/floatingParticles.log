@@ -1,0 +1,16 @@
+﻿  ofApp.cpp
+f:\openframeworks\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+f:\openframeworks\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+f:\openframeworks\apps\myapps\floatingparticles\src\ofapp.cpp(9): warning C4551: function call missing argument list
+f:\openframeworks\apps\myapps\floatingparticles\src\ofapp.cpp(114): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  f:\openframeworks\libs\openframeworks\graphics\ofgraphics.h(1008): note: see declaration of 'ofRotate'
+f:\openframeworks\apps\myapps\floatingparticles\src\ofapp.cpp(128): warning C4996: 'ofLine': Use ofDrawLine instead
+  f:\openframeworks\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine'
+  floatingParticles.vcxproj -> F:\openFrameworks\apps\myApps\floatingParticles\bin\floatingParticles_debug.exe
+  
+  	                   2	F:\openFrameworks\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	F:\openFrameworks\apps\myApps\floatingParticles\bin\FreeImage.dll
+  
+  	                   1	F:\openFrameworks\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	F:\openFrameworks\apps\myApps\floatingParticles\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	F:\openFrameworks\apps\myApps\floatingParticles\bin\fmodexL.dll
